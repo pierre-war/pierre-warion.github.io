@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, Aix-Marseille Université, 2025
+* Master degree in science of sound and music, IRCAM (Paris), 2020
+* Master degree AAG in theoretical mathematics, Orsay (France), 2019
+* Student of Ecole Normale Supérieure Paris-Saclay, 2016-2021
 
 Work experience
 ======
