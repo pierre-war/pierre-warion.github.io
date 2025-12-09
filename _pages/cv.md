@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, Aix-Marseille Université, 2025
-* Master degree in science of sound and music, IRCAM (Paris), 2020
-* Master degree AAG in theoretical mathematics, Orsay (France), 2019
-* Student of Ecole Normale Supérieure Paris-Saclay, 2016-2021
+* Ph.D in Mathematics, Institut de Mathématiques de Marseille, Aix-Marseille Université, Marseille, France. Under the supervision of Bruno Torrésani, 2022-2025
+* Pre PhD year of research at I2M (Marseille), under the supervision of Bruno Torrésani, 2021-2022
+* M2 ATIAM, IRCAM, Paris, master degree in science of sound and music, 2020-2021
+* M2 AAG, Orsay, master degree in theoretical mathematics specialised in Fourier analysis and PDE's, 2019-2020
+* Student of Ecole Normale Supérieure Paris-Saclay, 2016-2022
 
 Work experience
 ======
@@ -35,12 +36,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* English and French speaker
+* Live sound engineer, able to mix on X32/M32, midas Heritage HD96-D, yamaha Cl5 and most of classical consoles.
+* Coding : LaTeX, Python.
 
 Publications
 ======
