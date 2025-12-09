@@ -37,7 +37,7 @@ Work experience
 Skills
 ======
 * English and French speaker
-* Live sound engineer, able to mix on X32/M32, midas Heritage HD96-D, yamaha Cl5 and most of classical consoles.
+* Live sound engineer, able to mix on X32/M32, midas Heritage D96, yamaha Cl5 and most of classical consoles.
 * Coding : LaTeX, Python.
 
 Publications
